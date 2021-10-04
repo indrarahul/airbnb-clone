@@ -7,7 +7,6 @@ import SmallCard from '../src/components/SmallCard';
 import Footer from '../src/components/Footer';
 
 export default function Home({ exploreData, cardsData }) {
-  console.log(cardsData)
   return (
     <div className="">
       <Head>
